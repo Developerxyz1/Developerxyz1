@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript, Reactjs, Nodejs, Nextjs, Gatsby and ...
+- 🔭 I’m currently working with Javascript, Reactjs, Nodejs, Nextjs, Gatsby and ...
 
 <!--
 **Developerxyz1/Developerxyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
